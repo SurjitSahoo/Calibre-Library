@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">92bd9b66-6552-43bc-9c70-aab54635d920</dc:identifier>
+        <dc:title>The Intelligent Investor, Revised Edition</dc:title>
+        <dc:creator opf:file-as="Graham, Benjamin" opf:role="aut">Benjamin Graham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;The classic text annotated by noted financial journalist Jason Zweig to update Benjamin Graham's timeless wisdom for today's market conditions. Warren Buffet: "By far the best book on investing ever written."&lt;p&gt;Considered the greatest investment advisor of the twentieth century, Benjamin Graham's philosophy of "value investing" -- which shields investors from substantial error and teaches them to develop long-term strategies -- has made The Intelligent Investor the stock market bible ever since its original publication in 1949. Over the years, market developments have proven the wisdom of Graham's strategies. While preserving the integrity of Graham's original text, PerfectBound's revised edition includes updated commentary, whose perspective incorporates the realities of today's market, draws parallels between Graham's examples and today's financial headlines, and gives readers a more thorough understanding of how to apply Graham's principles.&lt;p&gt;More than one million...</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061745171</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Benjamin Graham&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-11T09:46:29.215000+00:00" name="calibre:timestamp"/>
+        <meta content="Intelligent Investor, Revised Edition, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

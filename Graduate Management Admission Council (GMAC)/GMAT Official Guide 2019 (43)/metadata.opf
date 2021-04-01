@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c00bdad-201b-4eae-8f8c-94a75c6e47a8</dc:identifier>
+        <dc:title>GMAT Official Guide 2019</dc:title>
+        <dc:creator opf:file-as="Graduate Management Admission Council (GMAC)" opf:role="aut">Graduate Management Admission Council (GMAC)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-30T09:30:32+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p style="font-family: Merriweather, Georgia, serif; line-height: 21px; padding: 0px; margin: 18px 0px; color: rgb(24, 24, 24); font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;The Official Guide is your must-have study guide that features Verbal, Quantitative, and Integrated Reasoning questions types. This edition includes 15% new content with 130 never-before seen-questions and exclusive access to the online question bank that allows you to create practice tests from the over 900 retired GMAC questions featured in the book, as well as exclusive videos from real test takers and GMAC staff who share insight and tips on GMAT preparation. The Official Guide for GMAT® Review 2019 features 900 practice questions of all types with answers and explanations, math review, essay topics, and a diagnostic test. In addition, you have access to an online study companion that includes the same practice questions and Integrated Reasoning questions and answer explanations; 100-question diagnostic exam to help focus your test preparation efforts.&lt;/p&gt;&lt;p style="font-family: Merriweather, Georgia, serif; line-height: 21px; padding: 0px; margin: 18px 0px; color: rgb(24, 24, 24); font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;&lt;b&gt;The Graduate Management Admissions Council (GMAC)&lt;/b&gt; is the association of leading graduate business schools around the world. GMAC's mission is to meet the needs of business schools and students through a wide array of products, services, and programs, and the organization serves as a primary resource of research and information about quality graduate management education. GMAC is the owner and administrator of the Graduate Management Admissions Test (GMAT). Created in 1954, the GMAT is the first and only standardized test specifically designed for graduate business and management programs. Available in over 100 countries, it is the global standard for entry to the MBA degree course. Currently about 2,100 schools and 5,900 programs have adopted the GMAT, and the test is taken approximately 230,000 times annually.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Graduate Management Admission Council (GMAC)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-20T14:04:03.617348+00:00" name="calibre:timestamp"/>
+        <meta content="GMAT Official Guide 2019" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

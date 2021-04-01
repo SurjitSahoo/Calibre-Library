@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">71a1dbb5-0e2b-4ad5-af9f-752a7a64a3e9</dc:identifier>
+        <dc:title>Node.js 8 The Right Way: Practical, Server-Side JavaScript That Scales</dc:title>
+        <dc:creator opf:file-as="Wilson, Jim" opf:role="aut">Jim Wilson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-03T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Node.js is the platform of choice for creating modern web services. This fast-paced book gets you up to speed on server-side programming with Node.js 8, as you develop real programs that are small, fast, low-profile, and useful. Take JavaScript beyond the browser, explore dynamic language features, and embrace evented programming.Harness the power of the event loop and non-blocking I/O to create highly parallel microservices and applications. This expanded and updated second edition showcases the latest ECMAScript features, current best practices, and modern development techniques.&lt;/p&gt;&lt;p&gt;JavaScript is the backbone of the modern web, powering nearly every web app's user interface. Node.js is JavaScript for the server. This greatly expanded second edition introduces new language features while dramatically increasing coverage of core topics. Each hands-on chapter offers progressively more challenging topics and techniques, broadening your skill set and enabling you to think in Node.js.&lt;/p&gt;&lt;p&gt;Write asynchronous, non-blocking code using Node.js's style and patterns. Cluster and load balance services with Node.js core features and third-party tools. Harness the power of databases such as Elasticsearch and Redis. Work with many protocols, create RESTful web services, TCP socket clients and servers, and more. Test your code's functionality with Mocha, and manage its life cycle with npm. Discover how Node.js pairs a server-side event loop with a JavaScript runtime to produce screaming fast, non-blocking concurrency. Through a series of practical programming domains, use the latest available ECMAScript features and harness key Node.js classes and popular modules. Create rich command-line tools and a web-based UI using modern web development techniques.&lt;/p&gt;&lt;p&gt;Join the smart and diverse community that's rapidly advancing the state of the art in JavaScript development.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;What You Need:&lt;/strong&gt;
+&lt;em&gt; Node.js 8.x
+&lt;/em&gt; Operating system with bash-like shell
+&lt;em&gt; OMQ (pronounced "Zero-M-Q") library, version 3.2 or higher
+&lt;/em&gt; Elasticsearch version 5.0 or higher
+&lt;em&gt; jq version 1.5 or higher
+&lt;/em&gt; Redis version 3.2 or higher
+**&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;" &lt;em&gt;Node.js 8 the Right Way&lt;/em&gt; is an excellent guide for building robust Node.js applications and making use of the extensive Node.js ecosystem. Using realistic applications from several different domains, it gives a highly useful and thorough description of the process of building, testing, and deploying real-world Node.js programs."&lt;br&gt;
+➤ &lt;strong&gt;Dan Scales&lt;/strong&gt;&lt;br&gt;
+    Principal Engineer, Google Inc.  &lt;/p&gt;&lt;p&gt;"Without the original &lt;em&gt;Node.js the Right Way&lt;/em&gt; , I wouldn't be where I am today. This book leapfrogged me from being a casual Node.js developer to loving the event loop and knowing how to build effective distributed systems in Node.js. It led me to writing clean, idiomatic, and highly understandable JavaScript--both in Node.js and in the browser. This update will do the same for readers."&lt;br&gt;
+➤ &lt;strong&gt;Kyle Kelley&lt;/strong&gt;&lt;br&gt;
+    Senior Software Engineer, Netflix  &lt;/p&gt;&lt;p&gt;"Jim's update to his engaging, wide-ranging deep dive into how to solve actual problems using Node.js taught even this old dog some new tricks. Hats off to Jim for clearly demonstrating how to get the most out of Node.js."&lt;br&gt;
+➤ &lt;strong&gt;Mark Trostler&lt;/strong&gt;&lt;br&gt;
+    Software Engineer, Google Inc.  &lt;/p&gt;&lt;p&gt;"Jim Wilson shows the correct way, the way that will definitely make you a better Node.js developer, giving you many techniques, insights, and--most of all--some really cool stuff. &lt;em&gt;Node.js 8 the Right Way&lt;/em&gt; provides loads of good practices and reveals some of the lower-level interactions of Node with the system. In a Node.js shop, this book is a must for seniors' reference and a must for new hires."&lt;br&gt;
+➤ &lt;strong&gt;Peter Perlepes&lt;/strong&gt;&lt;br&gt;
+    Software Engineer, Growth &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;
+
+
+
+
+
+
+
+
+
+&lt;/p&gt;&lt;p&gt;Jim R. Wilson is a software engineer at Google creating data visualizations on the Big Picture team. He's contributed to TensorFlow's visualization suite, TensorBoard, and other open source projects.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Pragmatic Bookshelf</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781680505368</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">oA9QDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B079PZ2XY8</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>JavaScript</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Parallel</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Application Development</dc:subject>
+        <dc:subject>Web</dc:subject>
+        <dc:subject>Web Programming</dc:subject>
+        <dc:subject>Client-Server Computing</dc:subject>
+        <dc:subject>Pragmatic Bookshelf</dc:subject>
+        <meta content="{&quot;Jim Wilson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-05-10T19:19:52.215000+00:00" name="calibre:timestamp"/>
+        <meta content="Node.js 8 The Right Way: Practical, Server-Side JavaScript That Scales" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

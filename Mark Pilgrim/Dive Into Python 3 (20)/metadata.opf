@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fae6f550-e920-46c5-80d2-774815076697</dc:identifier>
+        <dc:title>Dive Into Python 3</dc:title>
+        <dc:creator opf:file-as="Pilgrim, Mark" opf:role="aut">Mark Pilgrim</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-22T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;Mark Pilgrim&lt;/strong&gt; 's &lt;em&gt;Dive Into Python 3&lt;/em&gt; is a hands-on guide to Python 3 (the latest version of the Python language) and its differences from Python 2. As in the original book, &lt;em&gt;Dive Into Python&lt;/em&gt; , each chapter starts with a real, complete code sample, proceeds to pick it apart and explain the pieces, and then puts it all back together in a summary at the end.
+This book includes:
+  * Example programs completely rewritten to illustrate powerful new concepts now available in Python 3: sets, iterators, generators, closures, comprehensions, and much more
+  * A detailed case study of porting a major library from Python 2 to Python 3
+  * A comprehensive appendix of all the syntactic and semantic changes in Python 3&lt;/p&gt;
+&lt;p&gt;This is the perfect resource for you if you need to port applications to Python 3, or if you like to jump into languages fast and get going right away.&lt;/p&gt;
+&lt;h3&gt;What you'll learn&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand Python 3 code by seeing it broken down and explained&lt;/li&gt;
+&lt;li&gt;Make full use of the latest Python features such as iterators, generators, closures, classes and comprehensions&lt;/li&gt;
+&lt;li&gt;Refactor existing code to improve maintainability&lt;/li&gt;
+&lt;li&gt;Learn how to serialize Python objects with the pickle protocol and JSON format&lt;/li&gt;
+&lt;li&gt;Learn how to package your own Python libraries and upload them to the Python Package Index to share your projects with Python developers worldwide&lt;/li&gt;
+&lt;li&gt;Use Python 3 to consume HTTP web services&lt;/li&gt;
+&lt;li&gt;Port existing Python applications to Python 3 by following a case study for a major library&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Who is this book for?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Anyone who wants to learn the latest version of Python in a fast, hands-on fashion&lt;/li&gt;
+&lt;li&gt;Existing Python programmers who want to learn quickly how to make the most of the features of the latest version of Python and port their code to it&lt;/li&gt;
+&lt;li&gt;Programmers coming from other languages wanting a fast introduction to Python that gets them thinking about advanced concepts quickly&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;By day, Mark Pilgrim is a developer advocate for open source and open standards. By night, he is a husband and father who lives in North Carolina with his wife, his two sons, and his big slobbery dog. He spends his copious free time sunbathing, skydiving, and making up autobiographical information. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781430224150</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ekrhtG-Hn5IC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B003U890VE</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Computer Science</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>Open Source</dc:subject>
+        <dc:subject>Python 3 from novice to pro</dc:subject>
+        <dc:subject>python</dc:subject>
+        <dc:subject>python3</dc:subject>
+        <dc:subject>py3k</dc:subject>
+        <dc:subject>free</dc:subject>
+        <dc:subject>book</dc:subject>
+        <meta content="{&quot;Mark Pilgrim&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-05-10T19:21:12.620000+00:00" name="calibre:timestamp"/>
+        <meta content="Dive Into Python 3" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba079af5-6404-43e3-b8fa-8e30aa43386e</dc:identifier>
+        <dc:title>Illustrated Theory of Everything: The Origin and Fate of the Universe</dc:title>
+        <dc:creator opf:file-as="Hawking, Stephen" opf:role="aut">Stephen Hawking</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-01T17:13:31.947000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW: Stephen Hawking is widely believed to be one of the world’s greatest minds, a brilliant theoretical physicist whose work helped reconfigure models of the universe and define what’s in it. Imagine sitting in a room listening to Hawking discuss these achievements and place them in historical context; it would be like hearing Christopher Columbus on the New World. Hawking presents a series of seven lectures—covering everything from big bang to black holes to string theory—that capture not only the brilliance of Hawking’s mind but his characteristic wit as well. Of his research on black holes, which absorbed him for more than a decade, he says, “It might seem a bit like looking for a black cat in a coal cellar.” Hawking begins with a history of ideas about the universe, from Aristotle’s determination that the Earth is round to Hubble’s discovery, more than 2,000 years later, that the universe is expanding. Using that as a launching pad, he explores the reaches of modern physics, including theories on the origin of the universe (e.g., the Big Bang), the nature of black holes, and space-time. Finally, he poses the questions left unanswered by modern physics, especially how to combine all the partial theories into a “unified theory of everything.” “If we find the answer to that,” he claims, “it would be the ultimate triumph of human reason.” A great popularizer of science as well as a brilliant scientist, Hawking believes that advances in theoretical science should be “understandable in broad principle by everyone, not just a few scientists.” In this book, he offers a fascinating voyage of discovery about the cosmos and our place in it. It is a book for anyone who has ever gazed at the night sky and wondered what was up there and how it came to be.</dc:description>
+        <dc:publisher>Phoenix Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781597776110</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Cosmology</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Physics</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Astrophysics &amp; Space Science</dc:subject>
+        <dc:subject>Physics (General)</dc:subject>
+        <meta content="{&quot;Stephen Hawking&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-11T09:51:51.806000+00:00" name="calibre:timestamp"/>
+        <meta content="Illustrated Theory of Everything: The Origin and Fate of the Universe" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

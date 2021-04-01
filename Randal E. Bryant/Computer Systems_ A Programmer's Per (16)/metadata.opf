@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f5a61b30-6b78-4c66-a703-02836ff7daf4</dc:identifier>
+        <dc:title>Computer Systems: A Programmer's Perspective</dc:title>
+        <dc:creator opf:file-as="Bryant, Randal E. &amp; O'Hallaron, David R." opf:role="aut">Randal E. Bryant</dc:creator>
+        <dc:creator opf:file-as="Bryant, Randal E. &amp; O'Hallaron, David R." opf:role="aut">David R. O'Hallaron</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-11T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&amp;amp;&amp;gt;standalone product; MasteringEngineering® does not come packaged with this content. If you would like to purchase both the physical text and MasteringEngineering search for 0134123832 / 9780134123837    &lt;strong&gt;&lt;em&gt;Computer Systems: A Programmer's Perspective plus MasteringEngineering with Pearson eText — Access Card Package, 3/e&lt;/em&gt; &lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;strong&gt;Package consists of:&lt;/strong&gt;
+  * 013409266X/9780134092669 Computer Systems: A Programmer's Perspective, 3/e
+  * 0134071921/9780134071923 MasteringEngineering with Pearson eText -- Standalone Access Card -- for Computer Systems: A Programmer's Perspective, 3/e&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MasteringEngineering should only be purchased when required by an instructor.&lt;/strong&gt;
+ 
+&lt;em&gt;For courses in Computer Science and Programming&lt;/em&gt;
+ 
+&lt;strong&gt;&lt;em&gt;Computer systems: A Programmer’s Perspective&lt;/em&gt; &lt;/strong&gt; explains the underlying elements common among all computer systems and how they affect general application performance. Written from the programmer’s perspective, this book strives to teach readers how understanding basic elements of computer systems and executing real practice can lead them to create better programs. 
+ 
+Spanning across computer science themes such as hardware architecture, the operating system, and systems software, the &lt;strong&gt;Third Edition&lt;/strong&gt; serves as a comprehensive introduction to programming. This book strives to create programmers who understand all elements of computer systems and will be able to engage in any application of the field--from fixing faulty software, to writing more capable programs, to avoiding common flaws. It lays the groundwork for readers to delve into more intensive topics such as computer architecture, embedded systems, and cybersecurity. 
+ 
+This book focuses on systems that execute an x86-64 machine code, and recommends that programmers have access to a Linux system for this course. Programmers should have basic familiarity with C or C++. 
+ 
+&lt;strong&gt;Also available with MasteringEngineering&lt;/strong&gt;
+MasteringEngineering is an online homework, tutorial, and assessment system, designed to improve results through personalized learning. This innovative online program emulates the instructor’s office hour environment, engaging and guiding students through engineering concepts with self-paced individualized coaching  With a wide range of activities available, students can actively learn, understand, and retain even the most difficult concepts. &lt;/p&gt;&lt;p&gt;Students, if interested in purchasing this title with MasteringEngineering, ask your instructor for the correct package ISBN and Course ID. Instructors, contact your Pearson representative for more information.  &lt;/p&gt;&lt;p&gt;
+
+
+
+
+&lt;/p&gt;&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Pearson</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780134092669</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">7-IaogEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">013409266X</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Computer Engineering</dc:subject>
+        <meta content="{&quot;Randal E. Bryant&quot;: &quot;&quot;, &quot;David R. O'Hallaron&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-05-10T19:20:32.294000+00:00" name="calibre:timestamp"/>
+        <meta content="Computer Systems: A Programmer's Perspective" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

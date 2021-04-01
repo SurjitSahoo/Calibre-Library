@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8bf6547f-4701-4635-b293-d45cc0f039d6</dc:identifier>
+        <dc:title>Learning Node</dc:title>
+        <dc:creator opf:file-as="Shelley Powers" opf:role="aut">Shelley Powers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-26T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Take your web development skills from browser to server with Node&amp;#8212;and learn how to write fast, highly scalable network applications on this JavaScript-based platform. With this hands-on guide, you&amp;#8217;ll quickly master Node&amp;#8217;s core fundamentals, gain experience with several built-in and contributed modules, and learn the differences and parallels between client- and server-side programming.&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781449326142</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>COMPUTERS / Programming Languages / JavaScript</dc:subject>
+        <meta content="{&quot;Shelley Powers&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-11T13:58:45.182083+00:00" name="calibre:timestamp"/>
+        <meta content="Learning Node" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

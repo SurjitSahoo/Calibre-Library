@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cdf6bb24-a1a6-42ee-8555-cb3cc203f78c</dc:identifier>
+        <dc:title>Six Not-So-Easy Pieces: Einstein's Relativity, Symmetry, and Space-Time</dc:title>
+        <dc:creator opf:file-as="Feynman, Richard P. &amp; Leighton, Robert B. &amp; Sands, Matthew" opf:role="aut">Richard P. Feynman</dc:creator>
+        <dc:creator opf:file-as="Feynman, Richard P. &amp; Leighton, Robert B. &amp; Sands, Matthew" opf:role="aut">Robert B. Leighton</dc:creator>
+        <dc:creator opf:file-as="Feynman, Richard P. &amp; Leighton, Robert B. &amp; Sands, Matthew" opf:role="aut">Matthew Sands</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-21T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Six lectures, all regarding the most revolutionary discovery in twentieth-century physics: Einstein's Theory of Relativity. No one--not even Einstein himself--explained these difficult, anti-intuitive concepts more clearly, or with more verve and gusto, than Feynman.
+**&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p style="font-size: 24px; "&gt;
+&lt;/p&gt;&lt;p&gt;Richard P. Feynman (1918-88) was one of this century's most brilliant and original thinkers. He taught at Cornell and the California Institute of Technology and received the Nobel Prize in Physics for his work in quantum electrodynamics. Books by Feynman in Penguin include THE CHARACTER OF PHYSICAL LAW (1965), QED (1985), the bestselling THE MEANING OF IT ALL(1998) and SIX EASY PIECES (1998). &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Basic Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780201150261</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">DsHjXwAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B004P1JDYY</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Robert B. Leighton&quot;: &quot;&quot;, &quot;Richard P. Feynman&quot;: &quot;&quot;, &quot;Matthew Sands&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-05-10T19:20:51.530000+00:00" name="calibre:timestamp"/>
+        <meta content="Six Not-So-Easy Pieces: Einstein's Relativity, Symmetry, and Space-Time" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

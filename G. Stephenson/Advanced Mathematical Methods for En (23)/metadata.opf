@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0686998a-7849-4175-8fda-88701d995827</dc:identifier>
+        <dc:title>Advanced Mathematical Methods for Engineering and Science Students</dc:title>
+        <dc:creator opf:file-as="Stephenson, G. &amp; Radmore, P. M." opf:role="aut">G. Stephenson</dc:creator>
+        <dc:creator opf:file-as="Stephenson, G. &amp; Radmore, P. M." opf:role="aut">P. M. Radmore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1990-04-11T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;This textbook provides a solid foundation to a number of important topics in mathematics of interest to science and engineering students. Included are tensor algebra, ordinary differential equations, contour integration, Laplace and Fourier transforms, partial differential equations and the calculus of variations. The authors' approach is simple and direct with an emphasis on the analytical understanding of the material. The text is virtually selfcontained, assuming only that the student has a solid understanding of ancillary mathematics. Each chapter contains a large number of worked examples, and concludes with problems for solution, with answers in the back of the book.&lt;/p&gt;</dc:description>
+        <dc:publisher>Cambridge University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780521368605</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">0F1G_zy0XqwC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Applied</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Physics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Technology &amp; Engineering</dc:subject>
+        <dc:subject>Engineering (General)</dc:subject>
+        <meta content="{&quot;G. Stephenson&quot;: &quot;&quot;, &quot;P. M. Radmore&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-10T19:22:10.920000+00:00" name="calibre:timestamp"/>
+        <meta content="Advanced Mathematical Methods for Engineering and Science Students" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

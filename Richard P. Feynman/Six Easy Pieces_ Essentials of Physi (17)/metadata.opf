@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72dad807-3c86-4394-a61a-1ff3588d0e8e</dc:identifier>
+        <dc:title>Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher</dc:title>
+        <dc:creator opf:file-as="Feynman, Richard P. &amp; Leighton, Robert B." opf:role="aut">Richard P. Feynman</dc:creator>
+        <dc:creator opf:file-as="Feynman, Richard P. &amp; Leighton, Robert B." opf:role="aut">Robert B. Leighton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-21T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;It was Richard Feynman's outrageous and scintillating method of teaching that earned him legendary status among students and professors of physics. From 1961 to 1963, Feynman delivered a series of lectures at the California Institute of Technology that revolutionized the teaching of physics around the world. &lt;em&gt;Six Easy Pieces&lt;/em&gt; , taken from these famous Lectures on Physics, represent the most accessible material from the series.&lt;/p&gt;&lt;p&gt;In these classic lessons, Feynman introduces the general reader to the following topics: atoms, basic physics, energy, gravitation, quantum mechanics, and the relationship of physics to other topics. With his dazzling and inimitable wit, Feynman presents each discussion with a minimum of jargon. Filled with wonderful examples and clever illustrations, &lt;em&gt;Six Easy Pieces&lt;/em&gt; is the ideal introduction to the fundamentals of physics by one of the most admired and accessible physicists of modern times.
+**&lt;/p&gt;&lt;h3&gt;From Library Journal&lt;/h3&gt;&lt;p&gt;This book reprints the six easiest chapters from Feynman's celebrated Lectures on Physics (LJ 12/15/63), which the Nobel Prize-winning scientist delivered from 1961 to 1963 at the California Institute of Technology. Intended for as wide an audience as possible, these chapters are primarily qualitative in nature, with a minimum of formal mathematics. They discuss atoms, basic physics, the relation of physics to other sciences, the conservation of energy, gravitation, and quantum behavior. While this informative work provides a relevant historical perspective on the essentials of physics, the result is somewhat superficial. Nonetheless, because Lectures on Physics is out of print and because the information is still relevant, reprinting these specific chapters was probably a realistic move. The material will be readily understood by scholars, physics students, and informed lay readers. Recommended for academic and public libraries. (Audio tape and CD packages are also available.)-Donald G. Frank, Harvard Univ. Lib., Cambridge, Mass.&lt;br&gt;
+Copyright 1994 Reed Business Information, Inc. &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;
+
+
+
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Richard P. Feynman&lt;/strong&gt; was raised in Far Rockaway, New York, and received his Ph.D. from Princeton. He held professorships at both Cornell and the California Institute of Technology. In 1965 he received the Nobel Prize for his work on quantum electrodynamics. He died in 1988.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Basic Books</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B004OVEYNU</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Robert B. Leighton&quot;: &quot;&quot;, &quot;Richard P. Feynman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-05-10T19:20:41.034000+00:00" name="calibre:timestamp"/>
+        <meta content="Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

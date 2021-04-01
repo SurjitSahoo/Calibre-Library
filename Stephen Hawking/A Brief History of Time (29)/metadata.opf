@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3bbc5c96-64be-49f9-acf9-5dec18928798</dc:identifier>
+        <dc:title>A Brief History of Time</dc:title>
+        <dc:creator opf:file-as="Hawking, Stephen" opf:role="aut">Stephen Hawking</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-03T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Stephen Hawking has earned a reputation as the most brilliant theoretical physicist since Einstein. In this landmark volume, Professor Hawking shares his blazing intellect with nonscientists everywhere, guiding us expertly to confront the supreme questions of the nature of time and the universe. Was there a beginning of time? Will there be an end? Is the universe infinite or does it have boundaries? From Galileo and Newton to modern astrophysics, from the breathtakingly cast to the extraordinarily tiny, Professor Hawking leads us on an exhilarating journey to distant galaxies, black holes, alternate dimensions--as close as man has ever ventured to the mind of God. From the vantage point of the wheelchair from which he has spent more than twenty years trapped by Lou Gehrig's disease, Stephen Hawking has transformed our view of the universe. Cogently explained, passionately revealed, &lt;i&gt;A Brief History of Time&lt;/i&gt; is the story of the ultimate quest for knowledge: the ongoing...</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553896923</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Stephen Hawking&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-11T09:42:13.026000+00:00" name="calibre:timestamp"/>
+        <meta content="Brief History of Time, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

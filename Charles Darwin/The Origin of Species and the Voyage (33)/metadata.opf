@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fada62df-f98f-4864-a010-06ade2dd7f3e</dc:identifier>
+        <dc:title>The Origin of Species and the Voyage of the Beagle</dc:title>
+        <dc:creator opf:file-as="Darwin, Charles" opf:role="aut">Charles Darwin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-10-13T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Easily the most influential book published in the nineteenth century, Darwin’s &lt;em&gt;The Origin of Species&lt;/em&gt; is also that most unusual phenomenon, an altogether readable discussion of a scientific subject. On its appearance in 1859 it was immediately recognized by enthusiasts and detractors alike as a work of the greatest importance: its revolutionary theory of evolution by means of natural selection provoked a furious reaction that continues to this day.&lt;br&gt;
+&lt;em&gt;&lt;br&gt;
+The Origin of Species&lt;/em&gt; is here published together with Darwin’s earlier &lt;em&gt;Voyage of the ‘Beagle&lt;/em&gt;.’ This 1839 account of the journeys to South America and the Pacific islands that first put Darwin on the track of his remarkable theories derives an added charm from his vivid description of his travels in exotic places and his eye for the piquant detail.  &lt;/p&gt;
+&lt;p&gt;(Book Jacket Status: Jacketed)&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Everyman's Library</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781400041275</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1400041279</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B008NW6LHS</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Charles Darwin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-05-11T10:06:11.632000+00:00" name="calibre:timestamp"/>
+        <meta content="Origin of Species and the Voyage of the Beagle, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

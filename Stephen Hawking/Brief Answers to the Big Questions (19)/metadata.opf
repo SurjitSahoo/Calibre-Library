@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">94072471-b2f9-46af-8a41-3eccea84532b</dc:identifier>
+        <dc:title>Brief Answers to the Big Questions</dc:title>
+        <dc:creator opf:file-as="Hawking, Stephen" opf:role="aut">Stephen Hawking</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-16T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;The world-famous cosmologist and #1 bestselling author of &lt;i&gt;A Brief History of Time&lt;/i&gt; leaves us with his final thoughts on the biggest questions facing humankind.&lt;/b&gt;&lt;br&gt; Stephen Hawking was the most renowned scientist since Einstein, known both for his groundbreaking work in physics and cosmology and for his mischievous sense of humor. He educated millions of readers about the origins of the universe and the nature of black holes, and inspired millions more by defying a terrifying early prognosis of ALS, which originally gave him only two years to live. In later life he could communicate only by using a few facial muscles, but he continued to advance his field and serve as a revered voice on social and humanitarian issues.&lt;br&gt; Hawking not only unraveled some of the universe's greatest mysteries but also believed science could be used to fix problems here on Earth. Now, as we face immense challenges on our planet&amp;#8212;from climate change to the development of artificial...</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Stephen Hawking&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-10T19:20:58.941000+00:00" name="calibre:timestamp"/>
+        <meta content="Brief Answers to the Big Questions" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

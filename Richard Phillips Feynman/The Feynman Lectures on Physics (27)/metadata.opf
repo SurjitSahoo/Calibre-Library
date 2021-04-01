@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba8f942e-625b-410b-b0aa-ededfedf4fae</dc:identifier>
+        <dc:title>The Feynman Lectures on Physics</dc:title>
+        <dc:creator opf:file-as="Feynman, Richard Phillips &amp; Leighton, Robert B. &amp; Sands, Matthew" opf:role="aut">Richard Phillips Feynman</dc:creator>
+        <dc:creator opf:file-as="Feynman, Richard Phillips &amp; Leighton, Robert B. &amp; Sands, Matthew" opf:role="aut">Robert B. Leighton</dc:creator>
+        <dc:creator opf:file-as="Feynman, Richard Phillips &amp; Leighton, Robert B. &amp; Sands, Matthew" opf:role="aut">Matthew Sands</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1970-06-01T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;For more than thirty years, Richard P. Feynmanâ€™s three-volume &lt;em&gt;Lectures on Physics&lt;/em&gt; has been known worldwide as the classic resource for students and professionals alike. Ranging from the most basic principles of Newtonian physics through such formidable theories as Einsteinâ€™s general relativity, superconductivity, and quantum mechanics, Feynmanâ€™s lectures stand as a monument of clear exposition and deep insight. Responding to the tremendous clamor for the original audio tapes from which the &lt;em&gt;Lectures on Physics&lt;/em&gt; were transcribed, Persues Books is releasing Feynmanâ€™s original recordings, remastered for modern audio equipment and re-organized for cohesiveness and convenience. Timeless, and collectible, these tapes will serve as a comprehensive library of essential physics by a legend in science.
+**&lt;/p&gt;</dc:description>
+        <dc:publisher>Pearson P T R</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780201021189</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">86kvngEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0201021188</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Physics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta content="{&quot;Richard Phillips Feynman&quot;: &quot;&quot;, &quot;Robert B. Leighton&quot;: &quot;&quot;, &quot;Matthew Sands&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2019-05-10T19:46:52.467000+00:00" name="calibre:timestamp"/>
+        <meta content="Feynman Lectures on Physics, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

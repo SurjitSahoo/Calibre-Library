@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">87fcd040-5cd5-410b-87d5-19d4cd768bef</dc:identifier>
+        <dc:title>Cosmos</dc:title>
+        <dc:creator opf:file-as="Sagan, Carl" opf:role="aut">Carl Sagan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-21T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;This visually stunning book with over 250 full-color illustrations, many of them never before published, is based on Carl Sagan's thirteen-part television series. Told with Sagan's remarkable ability to make scientific ideas both comprehensible and exciting, &lt;b&gt;Cosmos&lt;/b&gt; is about science in its broadest human context, how science and civilization grew up together.&lt;br&gt;&lt;br&gt;The book also explores spacecraft missions of discovery of the nearby planets, the research in the Library of ancient Alexandria, the human brain, Egyptian hieroglyphics, the origin of life, the death of the Sun, the evolution of galaxies and the origins of matter, suns and worlds.&lt;br&gt;&lt;br&gt;Sagan retraces the fifteen billion years of cos-mic evolution that have transformed matter into life and consciousness, enabling the Cosmos to wonder about itself. He considers the latest findings on life elsewhere and how we might communicate with the beings of other worlds.&lt;br&gt;&lt;br&gt;&lt;b&gt;Cosmos&lt;/b&gt; is the story of our long...</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-0-307-80098-5</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Carl Sagan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-11T09:37:06.860000+00:00" name="calibre:timestamp"/>
+        <meta content="Cosmos" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5cd12e3f-d553-4461-9819-99a9882e18b8</dc:identifier>
+        <dc:title>Einstein's Miraculous Year: Five Papers That Changed the Face of Physics</dc:title>
+        <dc:creator opf:file-as="Einstein, Albert" opf:role="aut">Albert Einstein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-16T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;After 1905, Einstein's miraculous year, physics would never be the same again. In those twelve months, Einstein shattered many cherished scientific beliefs with five extraordinary papers that would establish him as the world's leading physicist. This book brings those papers together in an accessible format. The best-known papers are the two that founded special relativity: &lt;em&gt;On the Electrodynamics of Moving Bodies&lt;/em&gt; and &lt;em&gt;Does the Inertia of a Body Depend on Its Energy Content?&lt;/em&gt; In the former, Einstein showed that absolute time had to be replaced by a new absolute: the speed of light. In the second, he asserted the equivalence of mass and energy, which would lead to the famous formula &lt;em&gt;E = mc2&lt;/em&gt;&lt;br&gt;
+ **.&lt;/p&gt;
+&lt;p&gt;The book also includes &lt;em&gt;On a Heuristic Point of View Concerning the Production and Transformation of Light&lt;/em&gt; , in which Einstein challenged the wave theory of light, suggesting that light could also be regarded as a collection of particles. This helped to open the door to a whole new world--that of quantum physics. For ideas in this paper, he won the Nobel Prize in 1921.&lt;/p&gt;
+&lt;p&gt;The fourth paper also led to a Nobel Prize, although for another scientist, Jean Perrin. &lt;em&gt;On the Movement of Small Particles Suspended in Stationary Liquids Required by the Molecular-Kinetic Theory of Heat&lt;/em&gt; concerns the Brownian motion of such particles. With profound insight, Einstein blended ideas from kinetic theory and classical hydrodynamics to derive an equation for the mean free path of such particles as a function of the time, which Perrin confirmed experimentally. The fifth paper, &lt;em&gt;A New Determination of Molecular Dimensions&lt;/em&gt; , was Einstein's doctoral dissertation, and remains among his most cited articles. It shows how to calculate Avogadro's number and the size of molecules.&lt;/p&gt;
+&lt;p&gt;These papers, presented in a modern English translation, are essential reading for any physicist, mathematician, or astrophysicist. Far more than just a collection of scientific articles, this book presents work that is among the high points of human achievement and marks a watershed in the history of science.&lt;/p&gt;
+&lt;p&gt;Coinciding with the 100th anniversary of the miraculous year, this new paperback edition includes an introduction by John Stachel, which focuses on the personal aspects of Einstein's youth that facilitated and led up to the miraculous year.
+**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Princeton University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780691122281</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0691122288</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Albert Einstein&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2019-05-10T18:46:49+00:00" name="calibre:timestamp"/>
+        <meta content="Einstein's Miraculous Year: Five Papers That Changed the Face of Physics" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

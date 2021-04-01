@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9840f99-5450-4601-a1f5-8333565e6141</dc:identifier>
+        <dc:title>Learn Python 3 The Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code</dc:title>
+        <dc:creator opf:file-as="Shaw, Zed A." opf:role="aut">Zed A. Shaw</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-25T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;You &lt;em&gt;Will&lt;/em&gt; Learn Python 3!&lt;/strong&gt;
+ 
+Zed Shaw has perfected the world’s best system for learning Python 3. Follow it and you will succeed—just like the millions of beginners Zed has taught to date! You bring the discipline, commitment, and persistence; the author supplies everything else.
+ 
+In &lt;strong&gt;*Learn Python 3 the Hard Way,&lt;/strong&gt; * you’ll learn Python by working through 52 brilliantly crafted exercises. Read them. Type their code precisely. (No copying and pasting!) Fix your mistakes. Watch the programs run. As you do, you’ll learn how a computer works; what good programs look like; and how to read, write, and think about code. Zed then teaches you even more in 5+ hours of video where he shows you how to break, fix, and debug your code—live, as he’s doing the exercises.   &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Install a complete Python environment&lt;/li&gt;
+&lt;li&gt;Organize and write code&lt;/li&gt;
+&lt;li&gt;Fix and break code&lt;/li&gt;
+&lt;li&gt;Basic mathematics&lt;/li&gt;
+&lt;li&gt;Variables&lt;/li&gt;
+&lt;li&gt;Strings and text&lt;/li&gt;
+&lt;li&gt;Interact with users&lt;/li&gt;
+&lt;li&gt;Work with files&lt;/li&gt;
+&lt;li&gt;Looping and logic&lt;/li&gt;
+&lt;li&gt;Data structures using lists and dictionaries&lt;/li&gt;
+&lt;li&gt;Program design&lt;/li&gt;
+&lt;li&gt;Object-oriented programming&lt;/li&gt;
+&lt;li&gt;Inheritance and composition&lt;/li&gt;
+&lt;li&gt;Modules, classes, and objects&lt;/li&gt;
+&lt;li&gt;Python packaging&lt;/li&gt;
+&lt;li&gt;Automated testing&lt;/li&gt;
+&lt;li&gt;Basic game development&lt;/li&gt;
+&lt;li&gt;Basic web development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It’ll be hard at first. But soon, you’ll just get it—and that will feel great! This course will reward you for every minute you put into it. Soon, you’ll know one of the world’s most powerful, popular programming languages. You’ll be a Python programmer.
+ 
+&lt;em&gt;This Book Is Perfect For&lt;/em&gt;
+  * Total beginners with zero programming experience
+  * Junior developers who know one or two languages
+  * Returning professionals who haven’t written code in years
+  * Seasoned professionals looking for a fast, simple, crash course in Python 3&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Addison-Wesley Professional</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780134692883</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0134692888</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">93YpDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07378P8W6</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta content="{&quot;Zed A. Shaw&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-05-10T18:43:32+00:00" name="calibre:timestamp"/>
+        <meta content="Learn Python 3 The Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

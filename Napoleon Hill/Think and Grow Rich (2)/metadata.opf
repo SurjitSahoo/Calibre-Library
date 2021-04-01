@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2578c01-ce18-4b6c-92a6-164872cf61c7</dc:identifier>
+        <dc:title>Think and Grow Rich</dc:title>
+        <dc:creator opf:file-as="Hill, Napoleon" opf:role="aut">Napoleon Hill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-03T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;A must for anyone wanting to improve their lives and their positive thinking. There have been more millionaires and indeed, billionaires, who have made their fortunes as a result of reading this success classic than any other book every printed. NAPOLEON HILLS's "Think and Grow Rich" is the authors most famous work. This is the COMPLETE Reference Book. A true masterpiece with the fundamentals of the Success philosophy. &lt;strong&gt;&lt;em&gt;*&lt;/em&gt; ABOUT THE AUTHOR: Napoleon Hill was an American author who was one of the earliest producers of the modern genre of personal-success literature. His most famous work, Think and Grow Rich, is one of the best-selling books of all time. Hill's works examined the power of personal beliefs, and the role they play in personal success. "What the mind of man can conceive and believe, it can achieve" is one of Hill's hallmark expressions. How achievement actually occurs, and a formula for it that puts success in reach for the average person, were the focal points of Hill's books. &lt;/strong&gt;&lt;strong&gt;** Wikipedia, the free encyclopedia, about "Think and Grow Rich": Think and Grow Rich is a motivational personal development and self-help book written by Napoleon Hill and inspired by a suggestion from Scottish-American businessman Andrew Carnegie. While the title implies that this book deals only with how to get rich, the author explains that the philosophy taught in the book can be used to help people succeed in all lines of work and to do or be almost anything they want. For instance, Jim Murray (sportswriter) wrote that Think and Grow Rich was credited for Ken Norton's boxing upset of Muhammad Ali in 1973. The Reverend Charles Stanley writes "I began to apply the principles of (Think and Grow Rich) to my endeavors as a pastor, and I discovered they worked!" The book was first published during the Great Depression. At the time of Hill's death in 1970, Think and Grow Rich had sold 20 million copies. It remains the biggest seller of Napoleon Hill's books - a perennial best-seller after 70 years (BusinessWeek Magazine's Best-Seller List ranked Think and Grow Rich as the sixth best-selling paperback business book 70 years after it was first published). Think and Grow Rich is listed in John C. Maxwell's A Lifetime "Must Read" Books List. The text of Think and Grow Rich is founded on Hill's earlier work The Law of Success, the result of more than twenty years of research based on Hill's close association with a large number of individuals who achieved great wealth during their lifetimes. At Andrew Carnegie's bidding, Hill studied the characteristics of these achievers and developed 16 "laws" of success intended to be applied by anybody to achieve success. Think and Grow Rich condenses these laws further and provides the reader with 13 principles in the form of a philosophy of personal achievement. It is noted in the book, that an individual with desire, faith, and persistence can reach great heights by eliminating all negative energy and thoughts and focusing at the greater goals in hand. &lt;/strong&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>Tribeca Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781612930299</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1612930298</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Napoleon Hill&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2019-01-22T03:53:58+00:00" name="calibre:timestamp"/>
+        <meta content="Think and Grow Rich" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

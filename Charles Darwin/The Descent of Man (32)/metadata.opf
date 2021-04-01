@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a510212-316d-4395-9db6-54a16afb915b</dc:identifier>
+        <dc:title>The Descent of Man</dc:title>
+        <dc:creator opf:file-as="Darwin, Charles" opf:role="aut">Charles Darwin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-01T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;First published in 1871 and considered his other great book alongside "The Origin of Species," Darwin's "The Descent of Man" is a work that continues the scientist's theories on evolution. Divided into three parts, this book's purpose, as given in the introduction, is to consider whether or not man is descended from a pre-existing form, his manner of development, and the value of the differences between human races. Darwin goes on to systematically explore the evolution of man in terms of physical and mental traits, to condemn the debate on whether humans of different races were of different species, to expound his theory of sexual selection, and to address natural selection and its effect on civilized society, establishing some of the founding ideas on eugenics and what has come to be known as Social Darwinism. Still of great interest and importance in scientific thought today, "The Descent of Man" is a foundational text on the science of human evolution.
+**&lt;/p&gt;</dc:description>
+        <dc:publisher>Digireads.com</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781420933994</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/ebooks/2300</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">142093399X</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Evolution (Biology)</dc:subject>
+        <dc:subject>Natural selection</dc:subject>
+        <dc:subject>Human beings -- Origin</dc:subject>
+        <dc:subject>Heredity</dc:subject>
+        <meta content="{&quot;Charles Darwin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-05-11T09:55:42.577000+00:00" name="calibre:timestamp"/>
+        <meta content="Descent of Man, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

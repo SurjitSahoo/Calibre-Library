@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b529c39-9ee2-4fbc-916e-2da47a4fe12f</dc:identifier>
+        <dc:title>Learn More Python 3 The Hard Way: The Next Step for New Python Programmers</dc:title>
+        <dc:creator opf:file-as="Shaw, Zed A." opf:role="aut">Zed A. Shaw</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-31T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;Transform Your Ideas into High-Quality Python Code!&lt;/strong&gt;
+ 
+Zed Shaw has perfected the world’s best system for becoming a truly effective Python 3.x developer. Follow it and you will succeed—just like the tens of millions of programmers he’s already taught. You bring the discipline, commitment, and persistence; the author supplies everything else.
+ 
+In &lt;em&gt;Learn Python 3 the Hard Way,&lt;/em&gt; Zed Shaw taught you the basics of Programming with Python 3. Now, in &lt;strong&gt;*Learn More Python 3 the Hard Way,&lt;/strong&gt; * you’ll go far beyond the basics by working through 52 brilliantly crafted projects. Each one helps you build a key practical skill, combining demos to get you started and challenges to deepen your understanding. Zed then teaches you even more in 12 hours of online videos, where he shows you how to break, fix, and debug your code.
+ 
+First, you’ll discover how to analyze a concept, idea, or problem to implement in software. Then, step by step, you’ll learn to design solutions based on your analyses and implement them as simply and elegantly as possible. Throughout, Shaw stresses process so you can get started and build momentum, creativity to solve new problems, and quality so you’ll build code people can rely on.
+  * Manage complex projects with a programmer’s text editor
+  * Leverage the immense power of data structures
+  * Apply algorithms to process your data structures
+  * Master indispensable text parsing and processing techniques
+  * Use SQL to efficiently and logically model stored data
+  * Learn powerful command-line tools and skills
+  * Combine multiple practices in complete projects   &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;It’ll be hard at first. But soon, you’ll just get it—and that will feel great!&lt;/em&gt;
+ 
+This course will reward you for every minute you put into it. Soon, you’ll go beyond merely writing code that runs: you’ll craft high-quality Python code that solves real problems. You’ll be a serious Python programmer.
+ 
+&lt;strong&gt;Perfect for Everyone Who’s Already Started Working with Python, including Junior Developers and Seasoned Python Programmers Upgrading to Python 3.6+&lt;/strong&gt;
+ 
+&lt;em&gt;Register your product at informit.com/register for convenient access to downloads, updates, and/or corrections as they become available.&lt;/em&gt;
+**&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Zed A. Shaw&lt;/strong&gt; is the author of the popular online books &lt;em&gt;Learn Python 3 the Hard Way, Learn Python the Hard Way, Learn Ruby the Hard Way,&lt;/em&gt; and &lt;em&gt;Learn C the Hard Way.&lt;/em&gt; He is also the creator of several open source software projects and has been programming and writing for nearly 20 years. Most of his free time is devoted to the study of painting and art history. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Addison-Wesley Professional</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780134123004</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">uaYzDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0759XGN6P</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta content="{&quot;Zed A. Shaw&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2019-05-10T18:43:32+00:00" name="calibre:timestamp"/>
+        <meta content="Learn More Python 3 The Hard Way: The Next Step for New Python Programmers" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
